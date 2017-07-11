@@ -1,4 +1,4 @@
-Day 1
+<h2>Day 1</h2>
 
 Today was orientation day for 301. I'm not going to lie. I'm pretty excited. I think 201 was a good place to start because it gave me an idea of how to organize for the material we are going to learn.
 
